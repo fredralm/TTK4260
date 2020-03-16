@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Mar 15 20:55:59 2020
-
+https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model
 @author: adil
 """
 import numpy as np

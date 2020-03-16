@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Mar 15 15:24:00 2020
-
+https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model
 @author: adil
 """
 
